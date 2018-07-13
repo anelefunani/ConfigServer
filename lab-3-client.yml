@@ -1,6 +1,5 @@
 ---
-words:
-  luckyWords:
-    - one
-    - two
-    - three
+lucky-words:
+  - one
+  - two
+  - three
