@@ -1,2 +1,5 @@
 ---
-lucky-word: Irish
+lucky-word:
+  - lucky one
+  - lucky two
+  - lucky three
